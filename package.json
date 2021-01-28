@@ -74,7 +74,7 @@
     "zerorpc": "^0.9.7"
   },
   "devDependencies": {
-    "electron": "^1.8.4",
+    "electron": "^9.4.0",
     "@electron-forge/cli": "^6.0.0-beta.46",
     "@electron-forge/maker-deb": "^6.0.0-beta.46",
     "@electron-forge/maker-dmg": "^6.0.0-beta.46",
